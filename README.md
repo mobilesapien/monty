@@ -212,6 +212,4 @@ Monty Files:
 
 ## Autors
 
-* **Dovine Owuor** - [Dovineowuor](https://github.com/Dovineowuor)
-
-* **Bholuh** - [Bholuh](https://github.com/Bholuh)
+* **Hakeem Olatunji** - [MobileSapien](https://github.com/mobilesapien)
